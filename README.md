@@ -6,7 +6,7 @@ Ismael laurentino, 16 anos, Paulista, Gosto de socializar, Entusiasta de tecnolo
 
 <h2>Experiencias</h2>
 
-Cursando o ensino médio tecnico profisionalizante de Desenvolvimento De Sistemas na Escola PEI Professora Antonieta Borges Alvez, cujo as materias são: Logica e Desesenvolvimentos de Sistemas, Inteligencia Artificial, Redes de Computador e segurança da informação, Versionamento de codigos e sistemas de mesageria, processos de desenvolvimentos de software e metodologias ageis.<br>Curso de montagem e manutenção de computadores completo.<Br>Curso de Pacote Office completo.<br>Curso de Inglês Basico completo.
+Cursando o ensino médio tecnico profisionalizante de Desenvolvimento De Sistemas na Escola PEI Professora Antonieta Borges Alves, cujo as materias são: Logica e Desesenvolvimentos de Sistemas, Inteligencia Artificial, Redes de Computador e segurança da informação, Versionamento de codigos e sistemas de mesageria, processos de desenvolvimentos de software e metodologias ageis.<br>Curso de montagem e manutenção de computadores completo.<Br>Curso de Pacote Office completo.<br>Curso de Inglês Basico completo.
 
 <h2>Objetivos profisionalizante</h2>
 
