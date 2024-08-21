@@ -2,7 +2,7 @@
 
 <H2>Sobre mim</H2>
 
-Ismael laurentino, 16 anos, Paulista, Gosto de socializar, Gosto de tecnologia de software e hardware, Gosto de games e sair, Meu sonho é trabalhar com T.I e ter uma familia grande e estruturada, tenho facilidade nas areas tecnologicas e grande interesse.
+Ismael laurentino, 16 anos, Paulista, Gosto de socializar, Entusiasta de tecnologia , Gosto de games, Meu sonho é trabalhar com T.I e ter uma familia grande e estruturada, tenho facilidade nas areas tecnologicas e grande interesse.
 
 <h2>Experiencias</h2>
 
